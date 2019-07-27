@@ -13,16 +13,16 @@ I got the motivation about making this chatboot during the time I was learning N
 
 ## 2.Pre-requisities:
 For running and using this project you will have the following libraries requirement.
-**NLTK**
+### NLTK
                                       $ pip install nltk
                                       
-**String**
+### String
                                       $ pip install String
                                       
-**Numpy**
+### Numpy
                                       $ pip install numpy
                                       
-**Random**
+### Random
                                       $ pip install random
                                       
 that's it.
