@@ -13,10 +13,18 @@ I got the motivation about making this chatboot during the time I was learning N
 
 ## 2.Pre-requisities:
 For running and using this project you will have the following libraries requirement.
-2.1: NLTK
-2.2: String
-2.3: Numpy
-2.4: Random, that's it.
-
+**NLTK**
+                                      $ pip install nltk
+                                      
+**String**
+                                      $ pip install String
+                                      
+**Numpy**
+                                      $ pip install numpy
+                                      
+**Random**
+                                      $ pip install random
+                                      
+that's it.
 ## 3. How to run: 
 It is very easy to run this code.You just have to save the text from the domain where you wanna use the chatbot in the chatbot.txt file, and then get on to open the .ipynb file in Jupyter notebook, and run the block of code one by one, then you are good to go.
