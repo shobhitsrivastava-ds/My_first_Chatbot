@@ -5,8 +5,8 @@ A chatbot is a computer program which conducts a conversation via auditory or te
 
 ## Outline :
 * [Motivation](#motivation)
-* [Pre-requisities](#pre_requisities)
-* [How-to-run/use](#How_to_use)
+* [Pre_requisities](#pre_requisities)
+* [How_to_use](#how_to_use)
 
 ## 1.Motivaton:
 I got the motivation about making this chatboot during the time I was learning Natural Langage Processing, using NLTK for simple lammetizing purpose didn't moved me much, so I got an idea for making chatbot with the time api like NLTK. So here it is.
