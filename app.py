@@ -27,8 +27,8 @@ nltk.download("wordnet")
 
 
 # RELATED TO THE SQL DATABASE
-app.config['SECRET_KEY'] = '5791628bb0b13ce0c676dfde280ba245'
-app.config["SQLALCHEMY_DATABASE_URI"] = "sqlite:///site.db"
+app.config['SECRET_KEY'] = '4791628bb0b13ce0c676dfde280ba245'
+#app.config["SQLALCHEMY_DATABASE_URI"] = "sqlite:///site.db"
 #db=SQLAlchemy(app)
 
 #from model import User,Post
@@ -43,7 +43,7 @@ data=""
 lemmer = nltk.stem.WordNetLemmatizer()
 full_name= ""
 def read_file(path):
-    with open(full_name,"r") as f:
+    with open(path,"r") as f:
         text= f.read().strip()
     return(text)
 # Function for the preperation of the data
